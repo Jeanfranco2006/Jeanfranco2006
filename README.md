@@ -1,113 +1,123 @@
+<!-- STARK INDUSTRIES // SECURE PROFILE INTERFACE -->
+
+<!-- Palette: #1D0385 (Indigo Profundo) | #00F0FF (Cian Eléctrico) -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE:+WELCOME+ARCHITECT;JEANFRANCO+CHAMORRO+LOGGED+IN;INITIALIZING+DATA+STRUCTURES...;TARGET:+FULL+STACK+DEVELOPMENT" alt="Typing SVG" />
-  
-  <br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1D0385&height=2&width=100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D0385,100:020024&height=140&section=header&text=SYSTEM%20ONLINE%3A%20WELCOME%20ARCHITECT&fontColor=00F0FF&fontSize=28&fontAlignY=50&animation=fadeIn" width="100%"/>
+
 </div>
 
 <table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      
-### ⚛️ ARC REACTOR CORE [ABOUT_ME]
-> *“Data is the new Vibranium. I just build the suits to harness it.”*
+<tr>
+<td width="65%" valign="top">
 
-<br>
+```bash
+> Inicializando protocolos de acceso…
+> Autenticando credenciales: CHAMORRO_JF
+> Rol detectado: FULL STACK DEVELOPER & DATABASE ARCHITECT
+> Estado del sistema: OPERATIVO
+```
 
-`Status:` **OPERATIONAL**
-<br>
-`Role:` **System Architect & Full Stack Developer**
-<br>
-`Location:` **Lima, Peru [Sector 51]**
-<br>
-`Focus:` **Scalable Data Architecture, Blockchain Integration, High-Performance Systems.**
+## 🟦 ARC REACTOR CORE // PERFIL
 
-Como Arquitecto de Base de Datos y Desarrollador, no solo escribo código; diseño los ecosistemas digitales donde residen los negocios del futuro. Mi especialidad es fusionar la robustez de **Java/Spring** con la agilidad de **React**, todo respaldado por una arquitectura de datos a prueba de balas.
+```bash
+Nombre: Jeanfranco Chamorro
+Alias: The System Architect
+Especialidad: Arquitectura de Datos Escalables & Desarrollo Full Stack
+Núcleo tecnológico: Java · Python · SQL
+```
 
-<br>
-<a href="https://linkedin.com/in/jeanfranco-chamorro">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=1D0385&labelColor=1D0385" />
-</a>
-<a href="mailto:tu-email@gmail.com">
-  <img src="https://img.shields.io/badge/COMMUNICATION-SEND_PACKET-00F0FF?style=for-the-badge&logo=gmail&logoColor=1D0385&labelColor=1D0385" />
-</a>
+> "La arquitectura no se improvisa. Se diseña para sobrevivir."
+> — J.A.R.V.I.S. // Perfil analizado: eficiencia estructural alta.
 
-   </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 10px; border: 2px solid #00F0FF; box-shadow: 0 0 15px #1D0385;">
-      <br><br>
-      <img src="https://img.shields.io/badge/SYSTEM_INTEGRITY-100%25-success?style=flat-square&color=1D0385" />
-    </td>
-  </tr>
-</table>
+---
 
-<div align="center">
-  <h3>🛡️ ARMOR SYSTEMS [TECH_STACK]</h3>
-  <br>
-  <img src="https://skillicons.dev/icons?i=java,python,spring,laravel,react,nextjs,postgres,mongo,linux,docker,git,syscoin,solidity&perline=13&theme=dark" />
+## 🟦 ARMOR SYSTEMS // STACK TECNOLÓGICO
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=java,python,spring,laravel,react,postgres,mongodb,linux&theme=dark" />
 </div>
 
-<br>
+```bash
+[OK] Módulo Backend: Spring Boot · Laravel
+[OK] Módulo Frontend: React
+[OK] Núcleo de Datos: PostgreSQL · MongoDB
+[OK] Entorno: Linux
+Estado general de armadura: 100%
+```
 
-<h3>📂 CLASSIFIED FILES [MK. PROJECTS]</h3>
+---
 
-<table border="0" width="100%">
-  <tr>
-    <td width="33%">
-      <div align="center">
-        <h4 style="color: #00F0FF;">MK-1: INMOBLOCK</h4>
-        <img src="https://img.shields.io/badge/STATUS-DEVELOPMENT-yellow?style=flat-square"/>
-        <br><br>
-        Sistema de gestión inmobiliaria basado en <b>Blockchain</b>. Contratos inteligentes y transparencia total.
-        <br><br>
-        <code>Solidity</code> <code>React</code> <code>Web3</code>
-      </div>
-    </td>
-    <td width="33%">
-      <div align="center">
-        <h4 style="color: #00F0FF;">MK-2: PERU MARKET</h4>
-        <img src="https://img.shields.io/badge/STATUS-DEPLOYED-success?style=flat-square"/>
-        <br><br>
-        Plataforma E-commerce de alto rendimiento. Arquitectura escalable para tráfico masivo.
-        <br><br>
-        <code>Laravel</code> <code>MySQL</code> <code>Tailwind</code>
-      </div>
-    </td>
-    <td width="33%">
-      <div align="center">
-        <h4 style="color: #00F0FF;">MK-3: JINNOVA TECH</h4>
-        <img src="https://img.shields.io/badge/STATUS-OPTIMIZED-1D0385?style=flat-square"/>
-        <br><br>
-        Soluciones corporativas de software y branding visual. Integración de sistemas legacy.
-        <br><br>
-        <code>Java</code> <code>Spring Boot</code> <code>Linux</code>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1D0385&height=2&width=100%" />
-<br>
+## 🟦 MK. PROJECTS // ARCHIVOS CLASIFICADOS
 
 <table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3 align="left">⚡ ENERGY OUTPUT</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jeanfranco2006&show_icons=true&theme=dark&bg_color=0D1117&title_color=00F0FF&text_color=E1E4E8&icon_color=00F0FF&border_color=1D0385&hide_border=false" />
-    </td>
-    <td width="50%" align="center">
-      <h3 align="left">🧠 LANGUAGE MATRIX</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanfranco2006&layout=compact&theme=dark&bg_color=0D1117&title_color=00F0FF&text_color=E1E4E8&border_color=1D0385&hide_border=false" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**MK‑I // DataForge**
+Motor de arquitectura de datos escalable para sistemas empresariales.
+`Java · PostgreSQL · Arquitectura Hexagonal`
+
+</td>
+<td width="50%" valign="top">
+
+**MK‑II // Sentinel API**
+API robusta de control y monitoreo en tiempo real.
+`Spring Boot · MongoDB · Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**MK‑III // Neural Dashboard**
+Panel analítico interactivo para métricas de negocio.
+`React · Python · PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+**MK‑IV // Atlas DB**
+Sistema de modelado y optimización de esquemas de datos.
+`SQL · Python · Arquitectura de Datos`
+
+</td>
+</tr>
 </table>
+
+---
+
+## 🟦 POWER LEVELS // TELEMETRÍA
 
 <div align="center">
-  <br>
-  <p style="font-family: 'Courier New', monospace; color: #888;">
-    <i>"Sometimes you gotta run before you can walk."</i> — T. Stark
-  </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1D0385,00F0FF&height=60&section=footer" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=JeanfrancoChamorro&show_icons=true&hide_border=true&bg_color=00000000&title_color=1D0385&icon_color=00F0FF&text_color=9aa4ff" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanfrancoChamorro&hide_border=true&background=00000000&ring=1D0385&fire=00F0FF&currStreakLabel=1D0385" height="150"/>
+
 </div>
+
+```bash
+Analizando arquitectura de datos…
+Integridad: ██████████ 100%
+Escalabilidad: ██████████ 100%
+Disponibilidad: ██████████ 100%
+```
+
+---
+
+## 🟦 SYSTEM LINK // CONEXIÓN
+
+```bash
+Repositorio principal: github.com/JeanfrancoChamorro
+Estado de red: ESTABLE
+Acceso: AUTORIZADO
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:1D0385&height=120&section=footer" width="100%"/>
+
+</div>
+
+<!-- END OF STARK INDUSTRIES PROFILE INTERFACE -->
