@@ -1,31 +1,37 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0d1117,161b22,8A2BE2,4B0082&text=Hola,%20Soy%20Jeanfranco%20Chamorro!&fontSize=42&fontAlignY=38&desc=Bienvenido%20a%20mi%20Portafolio%20Digital&descAlignY=60&descAlign=50&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0d1117,161b22,8A2BE2,4B0082&text=Hola,%20Soy%20Jeanfranco%20Chamorro!&fontSize=42&fontAlignY=38&desc=Bienvenido%20a%20mi%20Portafolio%20Digital&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0d1117,161b22,8A2BE2,4B0082&section=header&animation=fadeIn" width="100%"/>
+</div>
 
-  <br>
+<div align="center">
+  <h1 style="border-bottom: none;">🐺 ¡Hola, Soy Jeanfranco Chamorro! 🦅</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=22&duration=3500&pause=1000&color=A965F0&center=true&vCenter=true&width=500&lines=FULL+STACK+DEVELOPER;DATABASE+ARCHITECT;TRANSFORMANDO+IDEAS+EN+CÓDIGO" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=24&duration=3000&pause=1000&color=A965F0&center=true&vCenter=true&width=600&lines=¡Bienvenido+a+mi+Universo+Digital!;Full+Stack+Developer+%7C+Database+Architect;Transformando+Lógica+en+Soluciones" alt="Typing SVG" />
   </a>
+  
+  <br><br>
+  
+  <p align="center" style="font-size: 16px;">
+    <i>"Gracias por visitar mi espacio. Aquí combino la estrategia del <b>Lobo</b>, la visión del <b>Águila</b> y el liderazgo del <b>León</b> para crear software escalable."</i>
+  </p>
 </div>
 
 <br>
+<hr style="border-color: #8A2BE2;">
 <br>
 
 <table border="0" width="100%" align="center">
   <tr>
     <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="130" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="120" />
       <br><br>
-      <b style="color: #8A2BE2; font-size: 16px;">EL ESTRATEGA</b>
+      <b style="color: #8A2BE2;">EL ESTRATEGA</b>
       <br>
-      <sub>Backend Logic</sub>
+      <sub>Backend & Logic</sub>
     </td>
     <td width="70%" align="center">
       <blockquote>
-        <i>"Como el lobo, mi código backend es organizado, eficiente y trabaja en manada (microservicios)."</i>
+        <i>"Como el lobo, el código backend debe ser eficiente, organizado y trabajar en manada (microservicios)."</i>
       </blockquote>
       <br>
       <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,linux&theme=dark" />
@@ -39,15 +45,15 @@
   <tr>
     <td width="70%" align="center">
       <blockquote>
-        <i>"Como el águila, tengo una visión precisa para diseñar bases de datos complejas y optimizadas."</i>
+        <i>"Como el águila, tengo una visión precisa y global para diseñar arquitecturas de datos complejas."</i>
       </blockquote>
       <br>
       <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,cassandra,redis&theme=dark" />
     </td>
     <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" alt="Eagle" width="130" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" alt="Eagle" width="120" />
       <br><br>
-      <b style="color: #8A2BE2; font-size: 16px;">EL VISIONARIO</b>
+      <b style="color: #8A2BE2;">EL VISIONARIO</b>
       <br>
       <sub>Data Architect</sub>
     </td>
@@ -59,15 +65,15 @@
 <table border="0" width="100%" align="center">
   <tr>
     <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" alt="Lion" width="130" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" alt="Lion" width="120" />
       <br><br>
-      <b style="color: #8A2BE2; font-size: 16px;">EL LÍDER</b>
+      <b style="color: #8A2BE2;">EL LÍDER</b>
       <br>
       <sub>Product Interface</sub>
     </td>
     <td width="70%" align="center">
       <blockquote>
-        <i>"Como el león, mis interfaces dominan el territorio y lideran la experiencia del usuario."</i>
+        <i>"Como el león, la interfaz domina el territorio y lidera la experiencia del usuario final."</i>
       </blockquote>
       <br>
       <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" />
@@ -122,12 +128,9 @@
   <a href="mailto:jeanfranco.chamorro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=8A2BE2" />
   </a>
-  <a href="https://github.com/Jeanfranco2006">
-    <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=8A2BE2" />
-  </a>
 </div>
 
 <div align="center">
   <br>
-  <sub style="color: #A965F0;">© 2026 Jeanfranco Chamorro | Database Architect</sub>
+  <sub style="color: #A965F0;">© 2026 Jeanfranco Chamorro | Architecting the Future</sub>
 </div>
