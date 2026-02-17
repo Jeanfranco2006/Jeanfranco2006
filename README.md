@@ -1,363 +1,296 @@
-<!-- ================================================================== -->
-<!--         INSTINTO DIGITAL — JEANFRANCO CHAMORRO                     -->
-<!--         Full Stack Developer & Database Architect                   -->
-<!-- ================================================================== -->
+<!-- ====================================================================== -->
+<!--                     INSTINTO DIGITAL · V2.0                            -->
+<!--                JEANFRANCO CHAMORRO · FULL STACK & DATA                 -->
+<!-- ====================================================================== -->
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  HEADER — BANNER PRINCIPAL                                -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
+<!--                               HEADER · WAVE                             -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,25,30,0&fontColor=F0F6FC&text=INSTINTO%20DIGITAL&fontSize=52&fontAlignY=40&desc=Full%20Stack%20Developer%20%26%20Database%20Architect&descAlignY=62&descSize=18&animation=fadeIn&stroke=BC13FE&strokeWidth=1" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,25,30,0&fontColor=F0F6FC&text=INSTINTO%20DIGITAL&fontSize=58&fontAlignY=38&desc=🐺%20ESTRATEGIA%20·%20🦅%20VISIÓN%20·%20🦁%20PODER%20🐺&descAlignY=62&descSize=20&animation=fadeIn&stroke=BC13FE&strokeWidth=2" width="100%">
+</p>
 
-<div align="center">
-
-<br/>
-
-<!-- BADGES DE PRESENTACIÓN -->
-
-![Lobo](https://img.shields.io/badge/🐺_LOBO-Backend_Architect-BC13FE?style=for-the-badge&labelColor=0d1117)
-![Águila](https://img.shields.io/badge/🦅_ÁGUILA-Data_Engineer-00F0FF?style=for-the-badge&labelColor=0d1117)
-![León](https://img.shields.io/badge/🦁_LEÓN-Product_Leader-FFD700?style=for-the-badge&labelColor=0d1117)
-
-<br/><br/>
-
-<!-- TYPING SVG — PRESENTACIÓN ANIMADA -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F0F6FC&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Hola%2C+soy+Jeanfranco+Chamorro.;Arquitecto+de+sistemas+que+escalan.;Estrategia+%7C+Precisi%C3%B3n+%7C+Dominio.;El+instinto+define+el+c%C3%B3digo.)](https://git.io/typing-svg)
-
-<br/>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECCIÓN 01 — EL LOBO  (Backend)                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<br/>
+<!-- ██████████████████████████████████████████████████████████████████████ -->
+<!--                       MANIFIESTO · EL CÓDIGO DEL INSTINTO              -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
-
-## 🐺 &nbsp; `EL LOBO` &nbsp; — &nbsp; <sub>Backend · Estrategia · Microservicios</sub>
-
+  <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; padding: 18px; border-left: 6px solid #BC13FE; border-right: 6px solid #FFD700; border-radius: 0px; font-size: 14px; max-width: 800px;">
+「 UN DESARROLLADOR · TRES INSTINTOS · CERO LÍMITES 」
+🐺 El LOBO no persigue, ORQUESTA.   🦅 El ÁGUILA no mira, PREVÉ.   🦁 El LEÓN no compite, DOMINA.
+  </pre>
 </div>
 
-<br/>
+<br>
 
-<table border="0" cellpadding="20" cellspacing="0" width="100%">
-<tr>
-<td width="30%" align="center" valign="middle">
+<!-- ██████████████████████████████████████████████████████████████████████ -->
+<!-- ························  LOBO · BACKEND  ···························· -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
 
-```
-  ╭──────────────────╮
-  │                  │
-  │    🐺  🐺  🐺    │
-  │   🐺  🐺  🐺  🐺 │
-  │    🐺  🐺  🐺    │
-  │                  │
-  │  LA MANADA       │
-  │  NUNCA FALLA     │
-  │                  │
-  ╰──────────────────╯
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" width="70">
+  <h1>
+    <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #BC13FE; border: 2px solid #BC13FE; padding: 8px 40px; display: inline-block; letter-spacing: 4px;">
+🐺  EL LOBO  ·  BACKEND  ·  LA MANADA  🐺
+    </pre>
+  </h1>
+</div>
 
-![Wolf](https://img.shields.io/badge/INSTINTO-ESTRATÉGICO-BC13FE?style=flat-square&labelColor=0d1117)
+<br>
 
-</td>
-<td width="70%" valign="middle">
+<!-- LOBO · TABLA CON IMAGEN MEJORADA -->
+<table align="center" border="0" cellpadding="20" cellspacing="0" width="90%" style="max-width: 1100px; background: transparent;">
+  <tr>
+    <td width="30%" align="center" valign="middle" style="background: rgba(188, 19, 254, 0.05); border: 1px solid #BC13FE; padding: 20px;">
+      <!-- LOBO 3D PRINCIPAL -->
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" width="140">
+      <br><br>
+      <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #BC13FE; border: none; padding: 0;">
+┌─────────────┐
+│  LA MANADA  │
+│  NUNCA      │
+│  FALLA      │
+└─────────────┘
+      </pre>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" width="40">
+    </td>
+    <td width="70%" valign="middle" style="padding-left: 20px;">
+      <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; border-left: 6px solid #BC13FE; padding: 25px; margin: 0; font-size: 15px; line-height: 1.6;">
+<span style="color:#BC13FE; font-weight: bold;">╔══════════════════════════════════════════════════════════╗</span>
+<span style="color:#BC13FE; font-weight: bold;">║  // FILOSOFÍA DEL LOBO                                  ║</span>
+<span style="color:#BC13FE; font-weight: bold;">╚══════════════════════════════════════════════════════════╝</span>
 
-### `// PERFIL: BACKEND WOLF`
+“Una manada bien coordinada es invencible. Los microservicios
+ son mis lobos. Cada uno preciso. Juntos, un sistema que no cae.”
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  FILOSOFÍA: "Una manada bien coordinada es invencible.  │
-│  Los microservicios son mis lobos. Cada uno, preciso.   │
-│  Juntos, un sistema que no se cae."                     │
-└─────────────────────────────────────────────────────────┘
-```
+<span style="color:#BC13FE;">⫸ ESTRATEGIA:</span> Java · Spring Boot · Laravel · Python
+<span style="color:#BC13FE;">⫸ MICROSERVICIOS:</span> APIs resilientes · Orquestación
+<span style="color:#BC13FE;">⫸ PATRONES:</span> Clean Architecture · DDD · Hexagonal
 
-El **Lobo** no ataca sin estrategia. Construyo backends que **escalan en silencio** y fallan con gracia. Cada servicio, un miembro de la manada con un rol definido. La arquitectura distribuida no es un lujo — es **instinto de supervivencia**.
-
-**Stack del Lobo:**
-
-[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
-[![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
-[![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
-
-</td>
-</tr>
+<span style="color:#BC13FE;">► Cazando bugs desde las sombras ◄</span>
+      </pre>
+    </td>
+  </tr>
 </table>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,laravel&perline=8&theme=dark">
+</p>
 
-```
-🐺  Cazando bugs desde las sombras · APIs que responden antes de que preguntes · Microservicios que no duermen  🐺
-```
+<br><br>
 
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECCIÓN 02 — EL ÁGUILA  (Base de Datos)                 -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<br/>
+<!-- ██████████████████████████████████████████████████████████████████████ -->
+<!-- ·······················  ÁGUILA · DATABASE  ·························· -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
-
-## 🦅 &nbsp; `EL ÁGUILA` &nbsp; — &nbsp; <sub>Data Architecture · Visión Global · Precisión</sub>
-
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" width="70">
+  <h1>
+    <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #00F0FF; border: 2px solid #00F0FF; padding: 8px 40px; display: inline-block; letter-spacing: 4px;">
+🦅  EL ÁGUILA  ·  BASE DE DATOS  ·  VISIÓN  🦅
+    </pre>
+  </h1>
 </div>
 
-<br/>
+<br>
 
-<table border="0" cellpadding="20" cellspacing="0" width="100%">
-<tr>
-<td width="70%" valign="middle">
+<!-- ÁGUILA · TABLA CON IMAGEN -->
+<table align="center" border="0" cellpadding="20" cellspacing="0" width="90%" style="max-width: 1100px; background: transparent;">
+  <tr>
+    <td width="70%" valign="middle" style="padding-right: 20px;">
+      <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; border-left: 6px solid #00F0FF; padding: 25px; margin: 0; font-size: 15px; line-height: 1.6;">
+<span style="color:#00F0FF; font-weight: bold;">╔══════════════════════════════════════════════════════════╗</span>
+<span style="color:#00F0FF; font-weight: bold;">║  // FILOSOFÍA DEL ÁGUILA                                ║</span>
+<span style="color:#00F0FF; font-weight: bold;">╚══════════════════════════════════════════════════════════╝</span>
 
-### `// PERFIL: DATABASE EAGLE`
+“El Águila no ve lo que está frente a ella. Ve el sistema
+ completo desde 3,000 metros de altura. Diseño bases de
+ datos que otros tardan años en entender.”
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  FILOSOFÍA: "El Águila no ve lo que está frente a ella. │
-│  Ve el sistema completo desde 3,000 metros de altura.   │
-│  Diseño bases de datos que otros tardan años en         │
-│  entender, y yo en minutos en optimizar."               │
-└─────────────────────────────────────────────────────────┘
-```
+<span style="color:#00F0FF;">⫸ ARQUITECTURA:</span> PostgreSQL · MongoDB · Data Lakes
+<span style="color:#00F0FF;">⫸ PRECISIÓN:</span> Modelado · Optimización · Índices
+<span style="color:#00F0FF;">⫸ VISIÓN:</span> Escalabilidad horizontal · Sharding
 
-El **Águila** tiene la visión que otros no pueden alcanzar. Diseño **arquitecturas de datos escalables** — desde el esquema relacional hasta los índices que hacen que una query de 8 segundos pase a 0.03. Cada tabla, cada relación, cada índice: **calculado con precisión quirúrgica**.
-
-**Stack del Águila:**
-
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
-[![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)
-[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
-
-</td>
-<td width="30%" align="center" valign="middle">
-
-```
-  ╭──────────────────╮
-  │                  │
-  │        🦅        │
-  │      ╱    ╲      │
-  │    ╱   ◉    ╲    │
-  │  ╱  SQL·NoSQL ╲  │
-  │ ╱  VISIÓN TOTAL╲ │
-  │                  │
-  │  DATOS DESDE     │
-  │  LAS ALTURAS     │
-  │                  │
-  ╰──────────────────╯
-```
-
-![Eagle](https://img.shields.io/badge/VISIÓN-TOTAL-00F0FF?style=flat-square&labelColor=0d1117)
-
-</td>
-</tr>
+<span style="color:#00F0FF;">► Datos que vuelan antes de preguntar ◄</span>
+      </pre>
+    </td>
+    <td width="30%" align="center" valign="middle" style="background: rgba(0, 240, 255, 0.05); border: 1px solid #00F0FF; padding: 20px;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" width="140">
+      <br><br>
+      <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #00F0FF; border: none; padding: 0;">
+┌─────────────┐
+│  VISIÓN     │
+│  TOTAL      │
+│  ◉  ◉  ◉    │
+└─────────────┘
+      </pre>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Ruler.png" width="40">
+    </td>
+  </tr>
 </table>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,graphql&perline=8&theme=dark">
+</p>
 
-```
-🦅  Arquitectura que escala · Queries que vuelan · Datos que tienen sentido antes de pedirlos  🦅
-```
+<br><br>
 
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECCIÓN 03 — EL LEÓN  (Frontend / Producto)             -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<br/>
+<!-- ██████████████████████████████████████████████████████████████████████ -->
+<!-- ·······················  LEÓN · FRONTEND  ···························· -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
-
-## 🦁 &nbsp; `EL LEÓN` &nbsp; — &nbsp; <sub>Frontend · Liderazgo · Producto Final</sub>
-
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" width="70">
+  <h1>
+    <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #FFD700; border: 2px solid #FFD700; padding: 8px 40px; display: inline-block; letter-spacing: 4px;">
+🦁  EL LEÓN  ·  FRONTEND  ·  DOMINIO  🦁
+    </pre>
+  </h1>
 </div>
 
-<br/>
+<br>
 
-<table border="0" cellpadding="20" cellspacing="0" width="100%">
-<tr>
-<td width="30%" align="center" valign="middle">
+<!-- LEÓN · TABLA CON IMAGEN -->
+<table align="center" border="0" cellpadding="20" cellspacing="0" width="90%" style="max-width: 1100px; background: transparent;">
+  <tr>
+    <td width="30%" align="center" valign="middle" style="background: rgba(255, 215, 0, 0.05); border: 1px solid #FFD700; padding: 20px;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" width="140">
+      <br><br>
+      <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #FFD700; border: none; padding: 0;">
+┌─────────────┐
+│  EL REY     │
+│  GOBIERNA   │
+│  ░░░░░░░░░  │
+└─────────────┘
+      </pre>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" width="40">
+    </td>
+    <td width="70%" valign="middle" style="padding-left: 20px;">
+      <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; border-left: 6px solid #FFD700; padding: 25px; margin: 0; font-size: 15px; line-height: 1.6;">
+<span style="color:#FFD700; font-weight: bold;">╔══════════════════════════════════════════════════════════╗</span>
+<span style="color:#FFD700; font-weight: bold;">║  // FILOSOFÍA DEL LEÓN                                  ║</span>
+<span style="color:#FFD700; font-weight: bold;">╚══════════════════════════════════════════════════════════╝</span>
 
-```
-  ╭──────────────────╮
-  │                  │
-  │    ░░░░░░░░░     │
-  │   ░░  🦁  ░░    │
-  │  ░░  REIGN  ░░   │
-  │   ░░░░░░░░░░    │
-  │                  │
-  │  EL PRODUCTO     │
-  │  ES EL REY       │
-  │                  │
-  ╰──────────────────╯
-```
+“El León no persigue. Domina su territorio. Un producto que
+ el usuario ama se construye con liderazgo visual y decisiones
+ que el usuario nunca verá pero siempre sentirá.”
 
-![Lion](https://img.shields.io/badge/DOMINIO-VISUAL-FFD700?style=flat-square&labelColor=0d1117)
+<span style="color:#FFD700;">⫸ DOMINIO VISUAL:</span> React · Interfaces que rugen
+<span style="color:#FFD700;">⫸ UX CON GARRA:</span> Experiencia · Performance
+<span style="color:#FFD700;">⫸ PRODUCTO:</span> UI Pixel-perfect · Componentes atómicos
 
-</td>
-<td width="70%" valign="middle">
-
-### `// PERFIL: FRONTEND LION`
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  FILOSOFÍA: "El León no persigue. Domina su territorio. │
-│  Un producto que el usuario ama no se construye con     │
-│  código bonito — se construye con liderazgo visual      │
-│  y decisiones que el usuario nunca verá pero siempre    │
-│  sentirá."                                              │
-└─────────────────────────────────────────────────────────┘
-```
-
-El **León** no construye interfaces — **construye experiencias que dominan**. Cada componente, cada transición, cada detalle visual es una declaración de poder. Full Stack no es saber de todo; es liderar cada capa con instinto y autoridad.
-
-**Stack del León:**
-
-[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
-
-</td>
-</tr>
+<span style="color:#FFD700;">► El producto es el rey ◄</span>
+      </pre>
+    </td>
+  </tr>
 </table>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&perline=8&theme=dark">
+</p>
+
+<br><br>
+
+<!-- ██████████████████████████████████████████████████████████████████████ -->
+<!--                    MÉTRICAS · PODER DEL INSTINTO                       -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
+
 <div align="center">
-
-```
-🦁  Interfaces que dominan · Productos que lideran · Experiencias que no se olvidan  🦁
-```
-
+  <h1>
+    <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; border: 2px solid; border-image: linear-gradient(45deg, #BC13FE, #00F0FF, #FFD700) 1; padding: 10px 50px;">
+📊  MÉTRICAS DEL INSTINTO  📊
+    </pre>
+  </h1>
 </div>
 
-<br/>
+<br>
 
----
+<!-- ESTADÍSTICAS CENTRADAS CON LOS 3 COLORES -->
+<p align="center">
+  <table align="center" border="0" width="90%" style="max-width: 1000px;">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanfrancoChamorro&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=BC13FE&text_color=F0F6FC&cache_seconds=1800" width="100%">
+      </td>
+      <td align="center" width="34%">
+        <img src="https://github-readme-stats.vercel.app/api?username=JeanfrancoChamorro&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=FFD700&text_color=F0F6FC&cache_seconds=1800" width="100%">
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanfrancoChamorro&theme=vision-friendly-dark&hide_border=true&background=0d1117&ring=FFD700&fire=BC13FE&currStreakLabel=00F0FF&sideLabels=F0F6FC" width="100%">
+      </td>
+    </tr>
+  </table>
+</p>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  ESTADÍSTICAS — POWER METRICS                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- BARRA DE ACTIVIDAD INSTINTIVA -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" width="25">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" width="25">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" width="25">
+</p>
 
-<br/>
+<pre align="center" style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; padding: 15px; border: 2px solid #BC13FE; border-radius: 0; max-width: 700px; margin: 20px auto;">
+🐾 ACTIVIDAD DEL INSTINTO: ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 98.7% · MODO CAZA ACTIVADO
+</pre>
+
+<br><br>
+
+<!-- ██████████████████████████████████████████████████████████████████████ -->
+<!--                     CONTACTO · COMUNICACIÓN DIRECTA                    -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
-
-## 📊 &nbsp; `MÉTRICAS DEL INSTINTO`
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=F0F6FC&center=true&vCenter=true&width=500&lines=Analizando+rendimiento+del+sistema...;Compilando+datos+de+actividad...;Instinto+confirmado+en+los+n%C3%BAmeros.)](https://git.io/typing-svg)
-
-<br/>
-
-<table border="0" cellpadding="8" cellspacing="0">
-<tr>
-<td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanfranco-chamorro&show_icons=true&theme=transparent&bg_color=0d1117&title_color=BC13FE&text_color=F0F6FC&icon_color=00F0FF&border_color=BC13FE&border_radius=10&custom_title=MÉTRICAS%20DEL%20ARQUITECTO&include_all_commits=true&count_private=true)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfranco-chamorro&layout=compact&theme=transparent&bg_color=0d1117&title_color=00F0FF&text_color=F0F6FC&border_color=00F0FF&border_radius=10&custom_title=LENGUAJES%20DOMINANTES&langs_count=6)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-![Streak](https://streak-stats.demolab.com?user=jeanfranco-chamorro&theme=transparent&background=0d1117&border=FFD700&ring=FFD700&fire=BC13FE&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=FFD700&sideLabels=FFD700&dates=8090a0&border_radius=10)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanfranco-chamorro&bg_color=0d1117&color=00F0FF&line=BC13FE&point=FFD700&area=true&area_color=BC13FE&hide_border=false&border_color=BC13FE&custom_title=MAPA%20DE%20ACTIVIDAD%20—%20INSTINTO%20DIGITAL&radius=8)
-
+  <h1>
+    <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; border: 2px solid #00F0FF; padding: 8px 40px;">
+🌐  ENLACE DIRECTO AL INSTINTO  🌐
+    </pre>
+  </h1>
 </div>
 
-<br/>
+<p align="center">
+  <a href="[URL_DE_TU_LINKEDIN_AQUI]">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="60">
+  </a>
+  <a href="[URL_DE_TU_PORTFOLIO_AQUI]">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60">
+  </a>
+  <a href="[URL_DE_TWITTER_U_OTRO]">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="60">
+  </a>
+</p>
 
----
+<br>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  CONTACTO — COMMUNICATION GRID                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<div align="center">
-
-## 🌐 &nbsp; `ENLACE DIRECTO`
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeanfranco_Chamorro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/jeanfranco-chamorro)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@jeanfranco-F0F6FC?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/jeanfranco-chamorro)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contacto_Directo-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:jeanfranco@email.com)
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=jeanfranco-chamorro&style=for-the-badge&color=BC13FE&label=PERFILES+VISITADOS&labelColor=0d1117)
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  FOOTER ÉPICO — TRIPLE INSTINTO                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<br/>
+<!-- ██████████████████████████████████████████████████████████████████████ -->
+<!--                FOOTER ÉPICO · LA TRIADA PERFECTA                       -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
-
-```
+  <!-- FRAME DE CIERRE CON LOS 3 COLORES -->
+  <pre style="font-family: 'Fira Code', monospace; background: #0d1117; padding: 25px; border: 3px solid; border-image: linear-gradient(45deg, #BC13FE, #00F0FF, #FFD700) 1; max-width: 800px;">
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║   🐺  La estrategia del Lobo construye los cimientos.                   ║
-║   🦅  La visión del Águila diseña la arquitectura.                      ║
-║   🦁  El poder del León domina el producto final.                       ║
+║   🐺  <span style="color:#BC13FE;">LA ESTRATEGIA DEL LOBO</span> construye los cimientos.                ║
+║   🦅  <span style="color:#00F0FF;">LA VISIÓN DEL ÁGUILA</span> diseña la arquitectura.                   ║
+║   🦁  <span style="color:#FFD700;">EL PODER DEL LEÓN</span> domina el producto final.                     ║
 ║                                                                          ║
-║          Un solo desarrollador. Tres instintos. Cero límites.           ║
+║          UN SOLO DESARROLLADOR · TRES INSTINTOS · CERO LÍMITES          ║
+║                                                                          ║
+║                     ⚡ JEANFRANCO CHAMORRO ⚡                            ║
+║                 Full Stack Developer & Database Architect                ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=F0F6FC&center=true&vCenter=true&width=650&lines=%22El+c%C3%B3digo+no+es+l%C3%B3gica+—+es+instinto+entrenado.%22;%22Los+mejores+sistemas+no+se+explican.+Se+sienten.%22;%22Full+Stack%3A+porque+el+instinto+no+tiene+capas.%22)](https://git.io/typing-svg)
-
+  </pre>
 </div>
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,25,30,0&section=footer&fontColor=F0F6FC&text=🐺%20🦅%20🦁%20—%20INSTINTO%20DIGITAL&fontSize=18&fontAlignY=65&animation=fadeIn" width="100%"/>
+<!-- WAVE FINAL -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,20,25,30,0&section=footer&fontColor=F0F6FC&text=🐺%20🦅%20🦁%20·%20INSTINTO%20DIGITAL%20·%20SIN%20LÍMITES%20🐺%20🦅%20🦁&fontSize=20&fontAlignY=65&animation=fadeIn" width="100%">
+</p>
 
-<!-- ================================================================== -->
-<!--  FIN — INSTINTO DIGITAL · Jeanfranco Chamorro · Full Stack Dev     -->
-<!-- ================================================================== -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
+<!-- ·· INSTINTO DIGITAL · JEANFRANCO CHAMORRO · FULL STACK & DATABASE ···· -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
