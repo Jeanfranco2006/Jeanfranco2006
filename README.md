@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Jeanfranco%20Chamorro&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Database%20Analyst&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Jeanfranco%20Chamorro&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Database%20Analyst&descAlignY=55&descAlign=50](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Jeanfranco%20Chamorro&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Database%20Analyst&descAlignY=55&descAlign=50)" width="100%"/>
 </div>
 
 <h1 align="center">Hola, soy Jeanfranco 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A965F0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Analista+de+Base+de+Datos;Experto+en+Java+%2B+SQL;Desarrollador+de+Sistemas+Escalables" alt="Typing SVG" />
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A965F0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Analista+de+Base+de+Datos;Experto+en+Java+%2B+SQL;Desarrollador+de+Sistemas+Escalables](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A965F0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Analista+de+Base+de+Datos;Experto+en+Java+%2B+SQL;Desarrollador+de+Sistemas+Escalables)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,17 +32,17 @@ const jeanfranco = {
 </tr>
 <tr>
 <td align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
 
 
 <sub>Modelado ER & SQL</sub>
 </td>
 <td align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,spring,php,hibernate" />
+<img src="https://skillicons.dev/icons?i=java,spring,php,hibernate" />
 </td>
 <td align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,idea,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" />
 </td>
 </tr>
 </table>
@@ -54,22 +54,22 @@ const jeanfranco = {
 <td align="center" width="50%">
 <h3>📚 Sistema Bibliotecario</h3>
 <p>Gestión avanzada de libros y préstamos</p>
-<img src="https://www.google.com/search?q=https://via.placeholder.com/300x150/000000/FFFFFF%3Ftext%3DFOTO%2BDE%2BBIBLIOTECA" width="100%" alt="Sistema Biblioteca" />
+<img src="https://via.placeholder.com/300x150/000000/FFFFFF?text=FOTO+DE+BIBLIOTECA" width="100%" alt="Sistema Biblioteca" />
 
 
 
 
-<a href="https://www.google.com/search?q=https://github.com/Jeanfranco2006/BDII---SISTEMA-BIBLIOTECARIO">🔗 Ver Código</a>
+<a href="https://github.com/Jeanfranco2006/BDII---SISTEMA-BIBLIOTECARIO">🔗 Ver Código</a>
 </td>
 <td align="center" width="50%">
 <h3>🏫 Sistema Colegio</h3>
 <p>Plataforma de gestión académica</p>
-<img src="https://www.google.com/search?q=https://via.placeholder.com/300x150/000000/FFFFFF%3Ftext%3DFOTO%2BDE%2BCOLEGIO" width="100%" alt="Sistema Colegio" />
+<img src="https://via.placeholder.com/300x150/000000/FFFFFF?text=FOTO+DE+COLEGIO" width="100%" alt="Sistema Colegio" />
 
 
 
 
-<a href="https://www.google.com/search?q=https://github.com/Jeanfranco2006/SistemaColegioDise-o">🔗 Ver Código</a>
+<a href="https://github.com/Jeanfranco2006/SistemaColegioDise-o">🔗 Ver Código</a>
 </td>
 </tr>
 </table>
@@ -77,10 +77,10 @@ const jeanfranco = {
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJeanfranco2006%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue" alt="Jeanfranco Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJeanfranco2006%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jeanfranco2006&show_icons=true&theme=dracula&hide_border=true" alt="Jeanfranco Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanfranco2006&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DJeanfranco2006%26theme%3Ddracula%26hide_border%3Dtrue" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeanfranco2006&theme=dracula&hide_border=true" alt="Streak" />
 </p>
