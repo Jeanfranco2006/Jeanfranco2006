@@ -1,117 +1,132 @@
-<!-- INSTINTO DIGITAL // GITHUB PROFILE INTERFACE -->
-
-<!-- Palette: Deep Space #0d1117 | Wolf #BC13FE | Eagle #00F0FF | Lion #FFD700 | Text #F0F6FC -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:020617&height=200&section=header&text=INSTINTO%20DIGITAL&fontColor=F0F6FC&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Jeanfranco%20Chamorro%20//%20Full%20Stack%20Developer%20%26%20Database%20Architect&descAlignY=65&descSize=16" width="100%"/>
-
+  <!-- BANNER SUPERIOR CON DEGRADADO DE LOS 3 PODERES -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=180&section=header&text=INSTINTO%20DIGITAL&fontSize=40&fontAlignY=32&desc=Full%20Stack%20%26%20Database%20Architect&descAlignY=55&fontColor=F0F6FC&animation=twinkling" width="100%"/>
 </div>
 
----
+<!-- FRASE DE IMPACTO (TOB) -->
+<div align="center">
+  <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; padding: 10px; border-left: 6px solid #BC13FE; border-right: 6px solid #FFD700; border-radius: 0px; font-size: 14px;">
+🜁 “La estrategia del lobo, la visión del águila y la fuerza del león convergen en una sola arquitectura.” 🜁
+  </pre>
+</div>
 
-<table border="0" width="100%">
-<tr>
-<td width="40%" align="center" valign="middle">
+<br>
 
-## 🐺
+<!-- SECCIÓN 1: EL LOBO (BACKEND / ESTRATEGIA) -->
+<table border="0" width="100%" style="background: transparent; border: none;">
+  <tr>
+    <!-- Imagen a la izquierda -->
+    <td width="20%" align="center" valign="middle" style="border: none;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="100" />
+    </td>
+    <!-- Texto a la derecha -->
+    <td width="80%" valign="middle" style="border: none; padding-left: 20px;">
+      <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; border-left: 4px solid #BC13FE; padding: 15px; margin: 0;">
+<span style="color:#BC13FE; font-size: 1.5em; font-weight: bold;">◈ EL LOBO (Backend) ◈</span>
+<span style="color:#BC13FE;">>_ Manada de microservicios</span>
+  · Estrategia: Java · Spring Boot · Laravel
+  · Inteligencia colectiva: Python · APIs resilientes
+  · Patrones de caza: Clean Architecture · Domain-Driven Design
 
-</td>
-<td width="60%" valign="middle">
-
-<h2 align="center" style="color:#BC13FE">EL LOBO — BACKEND</h2>
-
-```bash
-Estrategia distribuida.
-Inteligencia colectiva.
-Arquitecturas que cazan en manada.
-```
-
-**Rol:** Backend & Microservices Architect
-**Tecnologías:** Java · Spring Boot · Laravel · APIs
-**Instinto dominante:** Coordinación y resiliencia de sistemas.
-
-</td>
-</tr>
+“El lobo no caza solo, su ecosistema es su fortaleza.”</pre>
+    </td>
+  </tr>
 </table>
 
----
+<br>
 
-<table border="0" width="100%">
-<tr>
-<td width="60%" valign="middle">
+<!-- SECCIÓN 2: EL ÁGUILA (BASE DE DATOS / VISIÓN) -->
+<table border="0" width="100%" style="background: transparent; border: none;">
+  <tr>
+    <!-- Texto a la izquierda -->
+    <td width="80%" valign="middle" style="border: none; padding-right: 20px;">
+      <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; border-left: 4px solid #00F0FF; padding: 15px; margin: 0; text-align: right;">
+<span style="color:#00F0FF; font-size: 1.5em; font-weight: bold;">◈ EL ÁGUILA (Base de Datos) ◈</span>
+<span style="color:#00F0FF;">>_ Visión aérea de la arquitectura</span>
+  · PostgreSQL · MongoDB · Data Lakes
+  · Precisión en el modelado · Optimización de consultas
+  · Escalabilidad horizontal: Desde las alturas, todo se ve.
 
-<h2 align="center" style="color:#00F0FF">EL ÁGUILA — BASE DE DATOS</h2>
-
-```bash
-Visión desde las alturas.
-Precisión estructural.
-Datos bajo control absoluto.
-```
-
-**Rol:** Database Architect
-**Tecnologías:** PostgreSQL · MongoDB · SQL · Modelado
-**Instinto dominante:** Escalabilidad y claridad de datos.
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-## 🦅
-
-</td>
-</tr>
+“El águila no persigue a su presa, la anticipa.”</pre>
+    </td>
+    <!-- Imagen a la derecha -->
+    <td width="20%" align="center" valign="middle" style="border: none;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" alt="Eagle" width="100" />
+    </td>
+  </tr>
 </table>
 
----
+<br>
 
-<table border="0" width="100%">
-<tr>
-<td width="40%" align="center" valign="middle">
+<!-- SECCIÓN 3: EL LEÓN (FRONTEND / PRODUCTO) -->
+<table border="0" width="100%" style="background: transparent; border: none;">
+  <tr>
+    <!-- Imagen a la izquierda -->
+    <td width="20%" align="center" valign="middle" style="border: none;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" alt="Lion" width="100" />
+    </td>
+    <!-- Texto a la derecha -->
+    <td width="80%" valign="middle" style="border: none; padding-left: 20px;">
+      <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; border-left: 4px solid #FFD700; padding: 15px; margin: 0;">
+<span style="color:#FFD700; font-size: 1.5em; font-weight: bold;">◈ EL LEÓN (Frontend / Producto) ◈</span>
+<span style="color:#FFD700;">>_ Dominio visual y liderazgo de producto</span>
+  · React · Interfaces que rugen
+  · Experiencia de usuario (UX) con garra
+  · UI Pixel-perfect: El producto final es el rey.
 
-## 🦁
-
-</td>
-<td width="60%" valign="middle">
-
-<h2 align="center" style="color:#FFD700">EL LEÓN — FRONTEND & PRODUCTO</h2>
-
-```bash
-Presencia dominante.
-Experiencia visual.
-Interfaces con autoridad.
-```
-
-**Rol:** Frontend & Product Experience
-**Tecnologías:** React · UI Systems · UX Engineering
-**Instinto dominante:** Impacto visual y liderazgo de producto.
-
-</td>
-</tr>
+“El león no se preocupa por la opinión de las ovejas.”</pre>
+    </td>
+  </tr>
 </table>
 
----
+<br>
 
+<!-- TECH STACK: UNIFICANDO LOS TRES INSTINTOS -->
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,spring,laravel,react,postgres,mongodb,linux&theme=dark" />
-
+  <h2>
+    <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; padding: 8px 20px; border: 2px solid; border-image: linear-gradient(45deg, #BC13FE, #00F0FF, #FFD700) 1; display: inline-block;">
+⚔️ ARMAMENTO DIGITAL ⚔️
+    </pre>
+  </h2>
 </div>
 
----
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,spring,laravel,react,postgres,mongodb,linux&perline=8&theme=dark" />
+  </a>
+</p>
 
+<!-- ESTADÍSTICAS CON COLORES PERSONALIZADOS -->
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JeanfrancoChamorro&show_icons=true&hide_border=true&bg_color=0d1117&title_color=BC13FE&icon_color=00F0FF&text_color=F0F6FC" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanfrancoChamorro&hide_border=true&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=F0F6FC" height="160"/>
-
+  <table border="0" width="90%" style="background: transparent;">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=JeanfrancoChamorro&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=BC13FE&text_color=F0F6FC&border_color=FFD700" width="100%" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanfrancoChamorro&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=F0F6FC" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<!-- ACTIVIDAD RECIENTE (Rastro de manada) -->
+<pre align="center" style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; padding: 15px; border: 2px solid #BC13FE; border-radius: 0;">
+🐾 Rastro de actividad reciente:
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 98% [Instinto activo]
+</pre>
 
+<!-- FOOTER ÉPICO: INTEGRACIÓN DE LOS 3 COLORES -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,50:00F0FF,100:FFD700&height=140&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=6&section=footer&gradientColor=BC13FE,00F0FF,FFD700" width="100%"/>
+  <br>
+  <pre style="font-family: 'Fira Code', monospace; background: #0d1117; color: #F0F6FC; padding: 15px; font-size: 14px; border: 1px solid #00F0FF;">
+“Código con instinto. Arquitectura con alma. Bienvenido a la manada.”
+  </pre>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,18&height=6&section=footer&gradientColor=FFD700,00F0FF,BC13FE" width="100%"/>
 </div>
 
-<!-- END INSTINTO DIGITAL PROFILE -->
+<!-- CONTACTO / MADRIGUERA DIGITAL -->
+<p align="center">
+  <a href="[URL_DE_TU_LINKEDIN_AQUI]" style="color: #BC13FE; text-decoration: none; border: 1px solid #00F0FF; padding: 8px 20px; font-family: 'Fira Code', monospace; background: #0d1117;">⚡ CONECTAR CON LA MANADA ⚡</a>
+</p>
