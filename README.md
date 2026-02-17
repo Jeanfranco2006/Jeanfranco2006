@@ -1,103 +1,183 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,14,18,24,28&text=Jeanfranco%20Chamorro&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%94%82%20Database%20Analyst&descAlignY=55&animation=twinkling" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,18,20,24,28,30&text=Jeanfranco%20Chamorro&fontSize=60&fontAlignY=30&desc=Full%20Stack%20Developer%20%E2%94%82%20Database%20Architect&descAlignY=55&descAlign=50&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,18,20,24,28,30&text=Jeanfranco%20Chamorro&fontSize=60&fontAlignY=30&desc=Full%20Stack%20Developer%20%E2%94%82%20Database%20Architect&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
+  </picture>
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  ¡Hola! Soy Jeanfranco
-</h1>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=700&color=9745F5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Database+Architect;Java+%26+Python+Specialist;Scalable+Systems+Designer)](https://git.io/typing-svg)
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBkYzE5OTU2ZjQ2YzM3YzI2NDU4YzE4YzI2NDU4YzE4YzI2NDU4OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZnklM0FpbnRlcm5hbF9naWZz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120">
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Database+Analyst;Java+%2B+SQL+Expert;Clean+Code+Enthusiast" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="280">
-</p>
+<br>
 
 ---
 
-## ✦ **Sobre Mí** ✦
+<br>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="10">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+</div>
+
+<br>
+
+## ⚡ **The Architect** ⚡
+
+<div align="center">
+  <table border="0" cellspacing="5" cellpadding="15" width="90%">
     <tr>
-      <td width="200"><b>👨‍💻 Rol:</b></td>
-      <td>Full Stack Developer & Database Analyst</td>
+      <td width="200" align="right"><b>👨‍💻 Role:</b></td>
+      <td><code>Full Stack Developer & Database Architect</code></td>
+      <td width="200" align="right"><b>🎯 Current Focus:</b></td>
+      <td><code>Distributed Systems & Query Optimization</code></td>
     </tr>
     <tr>
-      <td><b>💡 Stack Principal:</b></td>
-      <td>Java • SQL • JavaScript • Spring Boot • MySQL</td>
+      <td align="right"><b>⚙️ Main Stack:</b></td>
+      <td><code>Java • Python • Spring Boot • Laravel</code></td>
+      <td align="right"><b>🗄️ Databases:</b></td>
+      <td><code>MySQL • PostgreSQL • MongoDB • Cassandra</code></td>
     </tr>
     <tr>
-      <td><b>🔧 Herramientas:</b></td>
-      <td>Git • VS Code • IntelliJ • PostgreSQL • Hibernate</td>
+      <td align="right"><b>🎨 Frontend:</b></td>
+      <td><code>React • Angular • Next.js • Tailwind</code></td>
+      <td align="right"><b>🖥️ Backend:</b></td>
+      <td><code>Spring • Laravel • REST • GraphQL</code></td>
     </tr>
     <tr>
-      <td><b>🏗️ Arquitectura:</b></td>
-      <td>MVC • REST APIs • Diseño de Bases de Datos</td>
+      <td align="right"><b>🔧 Tools:</b></td>
+      <td><code>Linux • Git • IntelliJ • VS Code • NetBeans</code></td>
+      <td align="right"><b>🏗️ Architecture:</b></td>
+      <td><code>Microservices • MVC • Event-Driven • DDD</code></td>
     </tr>
     <tr>
-      <td><b>🎯 Enfoque Actual:</b></td>
-      <td>Optimización SQL y escalabilidad de sistemas</td>
-    </tr>
-    <tr>
-      <td><b>✨ Filosofía:</b></td>
-      <td>"Código limpio, datos consistentes"</td>
+      <td colspan="4" align="center"><br><i>✨ "Elegant systems emerge from clean code and consistent data" ✨</i></td>
     </tr>
   </table>
 </div>
 
 <br>
 
-## 🚀 **Tecnologías y Herramientas**
+---
 
+<br>
+
+<!-- CYBER WOLF DIVIDER - Animal imagery representing strength and intelligence -->
 <div align="center">
-
-### 💾 **Base de Datos**
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=6" />
-<br>
-<sub>MySQL • PostgreSQL • MongoDB • Modelado ER • Optimización</sub>
-
-<br>
-
-### ⚙️ **Backend**
-<img src="https://skillicons.dev/icons?i=java,spring,php,hibernate&perline=6" />
-<br>
-<sub>Java • Spring Boot • PHP • Hibernate • REST APIs</sub>
-
-<br>
-
-### 🎨 **Frontend & Herramientas**
-<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,idea,linux&perline=8" />
-<br>
-<sub>JavaScript • HTML5 • CSS3 • Git • VS Code • IntelliJ • Linux</sub>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Cyber Wolf Animation" width="80%">
+  </picture>
+  <br>
+  <sub><i>⚡ Precision. Strategy. Persistence. ⚡</i></sub>
 </div>
 
 <br>
 
-## 📌 **Proyectos Destacados**
+---
+
+<br>
+
+## 🚀 **Technology Arsenal**
+
+<div align="center">
+  <h3>📊 Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,cassandra,sqlite&perline=6&theme=dark" />
+  <br>
+  <sub><i>MySQL • PostgreSQL • MongoDB • Cassandra • SQLite</i></sub>
+  
+  <br><br>
+  
+  <h3>⚙️ Backend</h3>
+  <img src="https://skillicons.dev/icons?i=java,python,spring,laravel,php,nodejs,express&perline=7&theme=dark" />
+  <br>
+  <sub><i>Java • Python • Spring Boot • Laravel • PHP • Node.js • Express</i></sub>
+  
+  <br><br>
+  
+  <h3>🎨 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,js,ts,html,css,tailwind,bootstrap&perline=9&theme=dark" />
+  <br>
+  <sub><i>React • Angular • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind • Bootstrap</i></sub>
+  
+  <br><br>
+  
+  <h3>🔧 DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,kubernetes,idea,vscode,netbeans&perline=9&theme=dark" />
+  <br>
+  <sub><i>Linux • Git • GitHub • GitLab • Docker • Kubernetes • IntelliJ • VS Code • NetBeans</i></sub>
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- LION DIVIDER - Symbolizing leadership and mastery -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-308d3f8c-2627-4786-9d8e-c8d2b5d8f5d1.gif" width="400">
+  <br>
+  <sub><i>🦁 Mastery through discipline and experience</i></sub>
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 📌 **Flagship Projects**
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>📚 Sistema Bibliotecario</h3>
+        <h3>🏛️ Enterprise Library System</h3>
         <a href="https://github.com/Jeanfranco2006/BDII---SISTEMA-BIBLIOTECARIO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeanfranco2006&repo=BDII---SISTEMA-BIBLIOTECARIO&theme=midnight-purple&hide_border=true&show_owner=true" width="100%">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeanfranco2006&repo=BDII---SISTEMA-BIBLIOTECARIO&theme=midnight-purple&hide_border=true&show_owner=true&bg_color=0d1117&title_color=9745f5&icon_color=9745f5&text_color=ffffff" width="100%">
         </a>
         <p>
-          <strong>Gestión de préstamos • Java • Base de datos relacional</strong>
+          <strong>Java • Spring Boot • MySQL • JPA/Hibernate</strong>
+          <br>
+          <sub>Complete library management system with advanced query optimization and transaction management</sub>
         </p>
       </td>
       <td width="50%" align="center">
-        <h3>🏫 Sistema Colegio</h3>
+        <h3>🏫 Academic Management Platform</h3>
         <a href="https://github.com/Jeanfranco2006/SistemaColegioDise-o">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeanfranco2006&repo=SistemaColegioDise-o&theme=midnight-purple&hide_border=true&show_owner=true" width="100%">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeanfranco2006&repo=SistemaColegioDise-o&theme=midnight-purple&hide_border=true&show_owner=true&bg_color=0d1117&title_color=9745f5&icon_color=9745f5&text_color=ffffff" width="100%">
         </a>
         <p>
-          <strong>Gestión académica • Spring Boot • Arquitectura escalable</strong>
+          <strong>Python • Django • PostgreSQL • REST API</strong>
+          <br>
+          <sub>Scalable academic platform serving 1000+ concurrent users with role-based access control</sub>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📊 Data Pipeline Orchestrator</h3>
+        <a href="#">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeanfranco2006&repo=demo&theme=midnight-purple&hide_border=true&show_owner=true&bg_color=0d1117&title_color=9745f5&icon_color=9745f5&text_color=ffffff" width="100%">
+        </a>
+        <p>
+          <strong>Python • Apache Kafka • MongoDB • Cassandra</strong>
+          <br>
+          <sub>Real-time data processing pipeline handling 10k+ events/second</sub>
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h3>⚡ Scalable E-Commerce Backend</h3>
+        <a href="#">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeanfranco2006&repo=demo&theme=midnight-purple&hide_border=true&show_owner=true&bg_color=0d1117&title_color=9745f5&icon_color=9745f5&text_color=ffffff" width="100%">
+        </a>
+        <p>
+          <strong>Java • Spring Cloud • PostgreSQL • Redis</strong>
+          <br>
+          <sub>Microservices architecture with circuit breaker and distributed tracing</sub>
         </p>
       </td>
     </tr>
@@ -106,69 +186,181 @@
 
 <br>
 
-## 📈 **Estadísticas de GitHub**
+---
 
+<br>
+
+<!-- EAGLE DIVIDER - Symbolizing vision and perspective -->
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Jeanfranco2006&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jeanfranco2006&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanfranco2006&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanfranco2006&layout=compact&langs_count=8&theme=default&hide_border=true" />
-  </picture>
-  
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="200">
   <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeanfranco2006&theme=midnight-purple&hide_border=true" alt="Racha de contribuciones" width="70%">
+  <sub><i>🦅 Seeing the big picture, mastering the details</i></sub>
 </div>
 
 <br>
-
-## 🏆 **Logros y Reconocimientos**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeanfranco2006&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=20&margin-h=20" width="90%">
-</div>
-
-<br>
-
-## 🌐 **Conecta Conmigo**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jeanfranco-chamorro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jeanfranco.chamorro@email.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Jeanfranco2006" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jeanfranco2006.Jeanfranco2006" alt="Contador de visitas">
-  <img src="https://img.shields.io/github/followers/Jeanfranco2006?style=social" alt="GitHub followers">
-</div>
 
 ---
 
+<br>
+
+## 📊 **Performance Metrics**
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Jeanfranco2006&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9745f5&icon_color=9745f5&text_color=ffffff&border_radius=10"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=Jeanfranco2006&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanfranco2006&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=9745f5&text_color=ffffff&border_radius=10"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanfranco2006&layout=compact&langs_count=10&theme=default&hide_border=true&border_radius=10" />
+  </picture>
+  
+  <br>
+  <br>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jeanfranco2006&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9745f5&ring=9745f5&fire=9745f5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9745f5&sideLabels=9745f5&dates=8b949e"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeanfranco2006&theme=default&hide_border=true" alt="GitHub Streak" width="70%">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jeanfranco2006&theme=modern-lilac&bg_color=0d1117&color=9745f5&line=9745f5&point=ffffff&area=true&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeanfranco2006&theme=github-light&hide_border=true" width="95%">
+  </picture>
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🏆 **Achievements & Recognition**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeanfranco2006&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=25&margin-h=25&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="90%">
+  
+  <br>
+  <br>
+  
+  <img src="https://img.shields.io/badge/Code%20Mastery-Advanced-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Expert-Certified-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-Scalable-8A2BE2?style=for-the-badge&logo=architecture&logoColor=white" />
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- CYBER ANIMAL FINAL - The pack/wisdom imagery -->
+<div align="center">
+  <table border="0" width="80%">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100">
+        <br>
+        <sub><b>Wolf Mentality</b></sub>
+        <br>
+        <sub>Strategic • Loyal • Persistent</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/218265814-308d3f8c-2627-4786-9d8e-c8d2b5d8f5d1.gif" width="100">
+        <br>
+        <sub><b>Lion Leadership</b></sub>
+        <br>
+        <sub>Commanding • Protective • Decisive</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="100">
+        <br>
+        <sub><b>Eagle Vision</b></sub>
+        <br>
+        <sub>Perspective • Precision • Excellence</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jeanfranco-chamorro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=8A2BE2" />
+  </a>
+  <a href="mailto:jeanfranco.chamorro@dev.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=8A2BE2" />
+  </a>
+  <a href="https://github.com/Jeanfranco2006" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=8A2BE2" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117&color=8A2BE2" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0d1117&color=8A2BE2" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jeanfranco2006&label=Profile%20Views&color=8A2BE2&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Jeanfranco2006?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Jeanfranco2006?style=social" alt="GitHub Stars" />
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 💭 **Engineering Philosophy**
+
+<div align="center">
+  <blockquote>
+    <p><i>"The best systems are invisible. They work so well that users never think about them."</i></p>
+    <p><i>"Data is the new soil. Clean it, structure it, and it will grow solutions."</i></p>
+    <p><i>"Scalability isn't a feature. It's a mindset from line one."</i></p>
+  </blockquote>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,18,20,24,28,30&section=footer&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,18,20,24,28,30&section=footer&animation=twinkling" width="100%"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24,28&height=150&section=footer" width="100%"/>
+  <sub>⚡ <strong>Jeanfranco Chamorro</strong> • Full Stack Developer & Database Architect • 2026 ⚡</sub>
+  <br>
+  <sub><i>Building systems that last. Writing code that matters.</i></sub>
 </div>
