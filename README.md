@@ -1,354 +1,131 @@
-<!-- ============================================================ -->
-<!--   STARK INDUSTRIES SECURE NETWORK — AUTHORIZED ACCESS ONLY  -->
-<!--   J.A.R.V.I.S. v12.0 — INITIALIZED                         -->
-<!-- ============================================================ -->
-
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=000000,1D0385,4B0082&text=Jeanfranco%20Chamorro&fontSize=55&fontAlignY=35&desc=Architecting%20The%20Digital%20Ecosystem&descAlignY=65&descAlign=50&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=000000,1D0385,4B0082&text=Jeanfranco%20Chamorro&fontSize=55&fontAlignY=35&desc=Architecting%20The%20Digital%20Ecosystem&descAlignY=65&descAlign=50&animation=fadeIn" width="100%"/>
+  </picture>
 
-<!-- ██████  SYSTEM HEADER — HUD LAYER 01  ██████ -->
+  <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,2,5,30&fontColor=00F0FF&text=SYSTEM%20ONLINE%3A%20WELCOME%20ARCHITECT&fontSize=28&fontAlignY=40&desc=J.A.R.V.I.S.%20%7C%20Stark%20Industries%20Core%20Network%20%7C%20Clearance%20Level%3A%20OMEGA&descAlignY=62&descSize=13&animation=fadeIn&stroke=00F0FF&strokeWidth=0.5" width="100%"/>
-
-<!-- STATUS BADGES — HUD LAYER 02 -->
-
-<br/>
-
-![STATUS](https://img.shields.io/badge/STATUS-SYSTEMS_ONLINE-00F0FF?style=for-the-badge&labelColor=0a0a1a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwRjBGRiIgc3Ryb2tlLXdpZHRoPSIyIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNCIgZmlsbD0iIzAwRjBGRiIvPjwvc3ZnPg==)
-![CLEARANCE](https://img.shields.io/badge/CLEARANCE-LEVEL_OMEGA-1D0385?style=for-the-badge&labelColor=0a0a1a)
-![UPTIME](https://img.shields.io/badge/UPTIME-99.99%25-00F0FF?style=for-the-badge&labelColor=0a0a1a)
-![PROTOCOL](https://img.shields.io/badge/PROTOCOL-MARK__85-1D0385?style=for-the-badge&labelColor=0a0a1a)
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  J.A.R.V.I.S. — Just A Rather Very Intelligent System  v12.0.4             ║
-║  > Inicializando protocolos de identificación...                            ║
-║  > Enlace seguro establecido: STARK INDUSTRIES NETWORK                      ║
-║  > Cargando perfil de usuario: JEANFRANCO.CHAMORRO.exe                      ║
-║  > Acceso concedido. Bienvenido, Arquitecto.                                ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);%3E+Full+Stack+Developer+%26+DB+Architect;%3E+Code+Strategy+%7C+Data+Vision+%7C+Product+Power" alt="Typing SVG" />
+  </a>
 </div>
 
----
-
-<!-- ██████  ARC REACTOR CORE — ABOUT ME  ██████ -->
-
+<br>
 <div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓  ⚡  ARC REACTOR CORE — UNIT: JEANFRANCO.CHAMORRO  ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+<br>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td width="55%" valign="top">
-
-```js
-// ─── PERFIL DE OPERATIVO ────────────────────────────
-const ARCHITECT = {
-  designacion   : "Jeanfranco Chamorro",
-  protocolo     : "Full Stack Developer",
-  clasificacion : "Database Architect — OMEGA",
-  directiva     : "Construir sistemas que otros
-                   no saben que necesitaban.",
-  estado        : "🟢 OPERATIVO AL 100%",
-};
-
-// ─── ANÁLISIS DE CAPACIDADES ─────────────────────────
-JARVIS.scan(ARCHITECT);
-// > Lógica de backend:     ████████████ SUPERIOR
-// > Arquitectura de datos: ████████████ CRÍTICO
-// > Diseño de sistemas:    ████████████ ELITE
-// > Resolución de errores: ████████████ ABSOLUTO
-```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&customColorList=0,2,2,5,30&fontColor=00F0FF&text=%E2%9A%A1%20ARC%20REACTOR&fontSize=20&fontAlignY=50&animation=blinking" width="90%"/>
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=jeanfranco-chamorro&style=for-the-badge&color=1D0385&label=SCANS+DETECTADOS)
-
-</td>
-</tr>
+<table border="0" width="100%" align="center">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="140" />
+      <br><br>
+      <h3 style="color: #BC13FE; margin: 0;">THE STRATEGIST</h3>
+      <code style="color: #BC13FE;">Backend Core</code>
+    </td>
+    <td width="70%">
+      <h3 align="left">🐺 Lógica & Estrategia</h3>
+      <blockquote>
+        <i style="color: #E0E0E0;">"Como el lobo, diseño sistemas backend resilientes. Mi código no trabaja solo; opera en manada a través de microservicios eficientes y escalables."</i>
+      </blockquote>
+      <br>
+      <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,linux,docker&theme=dark" />
+    </td>
+  </tr>
 </table>
 
-> ```
-> [ J.A.R.V.I.S. ] Análisis de personalidad completo.
->   El sujeto demuestra capacidades excepcionales en arquitectura
->   de sistemas distribuidos. Coeficiente de eficiencia: MÁXIMO.
->   Recomendación: Continuar observando. Podría ser útil.
-> ```
+<br>
 
----
-
-<!-- ██████  ARMOR SYSTEMS — TECH STACK  ██████ -->
-
-<div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓  🛡️  ARMOR SYSTEMS — MÓDULOS DE COMBATE ACTIVOS    ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-</div>
-
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-
-<tr>
-<td valign="top" width="50%">
-
-**`// MÓDULO 01 — NÚCLEO DE BACKEND`**
-
-```
-> Cargando sistemas de combate primarios...
-> Estado: ██████████ ACTIVO
-```
-
-[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
-[![Spring](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
-[![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)](https://skillicons.dev)
-
-</td>
-<td valign="top" width="50%">
-
-**`// MÓDULO 02 — INTERFAZ DE USUARIO`**
-
-```
-> Calibrando sistemas de interfaz...
-> Estado: ██████████ ACTIVO
-```
-
-[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-
-**`// MÓDULO 03 — NÚCLEO DE BASE DE DATOS`**
-
-```
-> Analizando arquitectura de datos...
-> Estado: ██████████ CRÍTICO/ACTIVO
-```
-
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
-[![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)
-
-</td>
-<td valign="top" width="50%">
-
-**`// MÓDULO 04 — INFRAESTRUCTURA & OPS`**
-
-```
-> Verificando sistemas de soporte...
-> Estado: ██████████ ACTIVO
-```
-
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
-[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
-
-</td>
-</tr>
-
+<table border="0" width="100%" align="center">
+  <tr>
+    <td width="70%" align="right">
+      <h3 align="right">🦅 Visión & Precisión</h3>
+      <blockquote>
+        <i style="color: #E0E0E0;">"Como el águila, poseo una visión de altura para la Arquitectura de Datos. Detecto ineficiencias desde lejos y optimizo cada consulta con precisión."</i>
+      </blockquote>
+      <br>
+      <div align="right">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,cassandra,redis,graphql&theme=dark" />
+      </div>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" alt="Eagle" width="140" />
+      <br><br>
+      <h3 style="color: #00F0FF; margin: 0;">THE ARCHITECT</h3>
+      <code style="color: #00F0FF;">Data Vision</code>
+    </td>
+  </tr>
 </table>
 
-> ```
-> [ J.A.R.V.I.S. ] Escaneo de armadura completado.
->   Módulos de backend: ÓPTIMOS | Módulos de datos: SUPERIORES
->   Todos los sistemas operando al parámetro máximo de eficiencia.
-> ```
+<br>
 
----
-
-<!-- ██████  MK. PROJECTS — CLASSIFIED FILES  ██████ -->
-
-<div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓  📁  MK. PROJECTS — ARCHIVOS CLASIFICADOS [OMEGA] ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-</div>
-
-```
-> Desencriptando archivos de ingeniería...
-> Acceso a esquemas de proyecto: CONCEDIDO
-> Mostrando registros del Arquitecto...
-```
-
-<br/>
-
-<table border="0" cellpadding="12" cellspacing="0" width="100%">
-<thead>
-<tr>
-<th align="left"><code>// DESIGNACIÓN</code></th>
-<th align="left"><code>// STACK PRIMARIO</code></th>
-<th align="left"><code>// CLASIFICACIÓN</code></th>
-<th align="left"><code>// ESTADO</code></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>MK-01 · Data Forge Engine</strong></td>
-<td><code>Java · Spring Boot · PostgreSQL</code></td>
-<td>Arquitectura de Datos Escalable</td>
-<td>🟢 <code>ACTIVO</code></td>
-</tr>
-<tr>
-<td><strong>MK-02 · Nexus API Platform</strong></td>
-<td><code>Laravel · React · MongoDB</code></td>
-<td>Plataforma Full Stack</td>
-<td>🟢 <code>ACTIVO</code></td>
-</tr>
-<tr>
-<td><strong>MK-03 · PySentinel Analytics</strong></td>
-<td><code>Python · PostgreSQL · Docker</code></td>
-<td>Análisis y Monitoreo</td>
-<td>🔵 <code>EN PRUEBAS</code></td>
-</tr>
-<tr>
-<td><strong>MK-04 · Reactor Core DB</strong></td>
-<td><code>SQL · Redis · Linux</code></td>
-<td>Base de Datos Distribuida</td>
-<td>🟡 <code>EN DESARROLLO</code></td>
-</tr>
-</tbody>
+<table border="0" width="100%" align="center">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lion.png" alt="Lion" width="140" />
+      <br><br>
+      <h3 style="color: #FFD700; margin: 0;">THE LEADER</h3>
+      <code style="color: #FFD700;">Frontend & Product</code>
+    </td>
+    <td width="70%">
+      <h3 align="left">🦁 Dominio & Experiencia</h3>
+      <blockquote>
+        <i style="color: #E0E0E0;">"Como el león, mis interfaces dominan el territorio digital. Lidero el desarrollo del producto asegurando que la fuerza del código se traduzca en belleza visual."</i>
+      </blockquote>
+      <br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,figma&theme=dark" />
+    </td>
+  </tr>
 </table>
 
-> ```
-> [ J.A.R.V.I.S. ] Análisis de proyectos completado.
->   Complejidad arquitectónica promedio: SOBRESALIENTE
->   Impacto estimado de soluciones: CRÍTICO PARA OPERACIONES
->   Observación: El Arquitecto tiene tendencia a resolver problemas
->   que otros aún no han descubierto. Eficiencia predictiva: ALTA.
-> ```
+<br>
+<br>
 
----
-
-<!-- ██████  POWER LEVELS — STATISTICS  ██████ -->
+<h2 align="center" style="color: #F0F6FC;">⚔️ TERRITORIOS CONQUISTADOS ⚔️</h2>
 
 <div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓  📊  POWER LEVELS — TELEMETRÍA EN TIEMPO REAL      ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-```
-> Conectando con servidores de análisis de GitHub...
-> Compilando métricas de rendimiento del Arquitecto...
-> Telemetría en tiempo real: TRANSMITIENDO
-```
-
-<br/>
-
-<table border="0" cellpadding="8" cellspacing="0">
-<tr>
-<td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanfranco-chamorro&show_icons=true&theme=transparent&bg_color=0a0a1a&title_color=00F0FF&text_color=c0e0ff&icon_color=1D0385&border_color=1D0385&border_radius=8&hide_title=false&custom_title=TELEMETRÍA%20DEL%20ARQUITECTO&include_all_commits=true)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfranco-chamorro&layout=compact&theme=transparent&bg_color=0a0a1a&title_color=00F0FF&text_color=c0e0ff&border_color=1D0385&border_radius=8&custom_title=MÓDULOS%20MÁS%20ACTIVOS&langs_count=6)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jeanfranco-chamorro&theme=transparent&background=0a0a1a&border=1D0385&ring=00F0FF&fire=00F0FF&currStreakNum=c0e0ff&sideNums=c0e0ff&currStreakLabel=00F0FF&sideLabels=1D0385&dates=4a4a8a&border_radius=8)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanfranco-chamorro&bg_color=0a0a1a&color=00F0FF&line=1D0385&point=00F0FF&area=true&area_color=1D0385&hide_border=false&border_color=1D0385&custom_title=MAPA%20DE%20ACTIVIDAD%20—%20STARK%20INDUSTRIES%20TIMELINE&radius=8)
-
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center" style="padding: 10px;">
+        <a href="https://github.com/Jeanfranco2006/BDII---SISTEMA-BIBLIOTECARIO">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeanfranco2006&repo=BDII---SISTEMA-BIBLIOTECARIO&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff" width="100%">
+        </a>
+      </td>
+      <td width="50%" align="center" style="padding: 10px;">
+        <a href="https://github.com/Jeanfranco2006/SistemaColegioDise-o">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeanfranco2006&repo=SistemaColegioDise-o&theme=algolia&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" width="100%">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-> ```
-> [ J.A.R.V.I.S. ] Telemetría procesada y verificada.
->   Consistencia de commits: EXCEPCIONAL
->   Diversidad de tecnologías: MULTI-ESPECTRO
->   Conclusión: Los datos confirman operaciones de élite.
->   El servidor de GitHub procesa su actividad con... cierta dificultad.
-> ```
-
----
-
-<!-- ██████  COMMUNICATION ARRAY — CONTACT  ██████ -->
+<br>
 
 <div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓  📡  COMMUNICATION ARRAY — PROTOCOLOS DE ENLACE   ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-```
-> Iniciando protocolos de comunicación segura...
-> Canal de enlace: ENCRIPTADO
-> Identificadores de red: PUBLICADOS
-```
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ENLACE_PROFESIONAL-1D0385?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0a0a1a)](https://linkedin.com/in/jeanfranco-chamorro)
-[![GitHub](https://img.shields.io/badge/GitHub-REPOSITORIO_CENTRAL-1D0385?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0a0a1a)](https://github.com/jeanfranco-chamorro)
-[![Email](https://img.shields.io/badge/Email-CANAL_DIRECTO-00F0FF?style=for-the-badge&logo=gmail&logoColor=1D0385&labelColor=0a0a1a)](mailto:jeanfranco@example.com)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeanfranco2006&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=BC13FE&icon_color=BC13FE&text_color=ffffff&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanfranco2006&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=BC13FE&text_color=ffffff&border_radius=10" height="170" />
 </div>
 
----
-
-<!-- ██████  SYSTEM FOOTER  ██████ -->
+<br>
+<br>
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  [ J.A.R.V.I.S. ] Sesión de visualización completada.                      ║
-║                                                                              ║
-║  > Todos los sistemas operando en parámetros óptimos.                       ║
-║  > El perfil del Arquitecto ha sido transmitido con éxito.                  ║
-║  > Recuerde: Un sistema bien diseñado no necesita explicación.               ║
-║                                                                              ║
-║  Stark Industries — Classified Network — All Rights Reserved                ║
-║  "Systems don't fail. Architects learn." — J.A.R.V.I.S.                    ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer&fontColor=00F0FF&text=JARVIS+v12.0+—+DESCONECTANDO&fontSize=16&fontAlignY=65&animation=fadeIn" width="100%"/>
-
+  <a href="https://www.linkedin.com/in/jeanfranco-chamorro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D0385&color=000000" />
+  </a>
+  <a href="mailto:jeanfranco.chamorro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BC13FE&color=000000" />
+  </a>
+  <a href="https://github.com/Jeanfranco2006">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=FFD700&color=000000" />
+  </a>
 </div>
 
-<!-- ============================================================ -->
-<!--   FIN DE TRANSMISIÓN — STARK INDUSTRIES SECURE NETWORK      -->
-<!--   J.A.R.V.I.S. v12.0 — SESIÓN CERRADA                      -->
-<!-- ============================================================ -->
+<div align="center">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=000000,BC13FE,00F0FF,FFD700&section=footer&animation=fadeIn" width="100%"/>
+  <sub style="color: #888;">© 2026 Jeanfranco Chamorro | Driven by Instinct</sub>
+</div>
